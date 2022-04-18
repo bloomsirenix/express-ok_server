@@ -1,0 +1,1 @@
+npm start>log_%time%.txt
